@@ -1,0 +1,325 @@
+{
+  "scope": "前3页，去重后36条Reels；按ig_play_count优先、play_count补充降序",
+  "items": [
+    {
+      "rank": 1,
+      "code": "DdsFtMgo7Vi",
+      "plays": 10639791,
+      "likes": 1441444,
+      "url": "https://www.instagram.com/reel/DdsFtMgo7Vi/",
+      "caption": "cats got more game than me🐈😭 Made with Higgsfield Genjutsu #higgsfieldgenjutsu #genjutsu",
+      "width": 960,
+      "height": 720,
+      "file": "01_DdsFtMgo7Vi.mp4",
+      "downloaded": true,
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 960,
+            "height": 720
+          },
+          {
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "28.163000",
+          "size": "2719594"
+        }
+      },
+      "probe_ok": true,
+      "decode_ok": true,
+      "sha256": "aa5cf48ee29dc2659e2dabff3ae5e0518ce5fa9d12320ffeec92389598badad4"
+    },
+    {
+      "rank": 2,
+      "code": "DdnseKgt1C8",
+      "plays": 2446989,
+      "likes": 302746,
+      "url": "https://www.instagram.com/reel/DdnseKgt1C8/",
+      "caption": "Tiny paws, huge feelings 🥹🐈 made with Higgsfield Genjutsu \n\n#higgsfieldgenjutsu #genjutsu #bellvtrix #cat",
+      "width": 1276,
+      "height": 718,
+      "file": "02_DdnseKgt1C8.mp4",
+      "downloaded": true,
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 1276,
+            "height": 718
+          },
+          {
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "22.173000",
+          "size": "2786042"
+        }
+      },
+      "probe_ok": true,
+      "decode_ok": true,
+      "sha256": "0b52c32194e1d36fca1be96814534fed1073f8e55ef2dd13b8c05fd8c7405082"
+    },
+    {
+      "rank": 3,
+      "code": "Df5KmcgtSLO",
+      "plays": 1357998,
+      "likes": 63470,
+      "url": "https://www.instagram.com/reel/Df5KmcgtSLO/",
+      "caption": "it’s funny as it seems😭Made with Higgsfield Genjutsu #higgsfieldgenjutsu #genjutsu #cats #bellvtrix",
+      "width": 720,
+      "height": 1280,
+      "file": "03_Df5KmcgtSLO.mp4",
+      "downloaded": true,
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "15.160000",
+          "size": "3644913"
+        }
+      },
+      "probe_ok": true,
+      "decode_ok": true,
+      "sha256": "f6ded75bbcb640c5ddf7e6364ab4b2e736191343ba8915e731c396fc9cba7252"
+    },
+    {
+      "rank": 4,
+      "code": "Ddv1_eGND0v",
+      "plays": 799543,
+      "likes": 29874,
+      "url": "https://www.instagram.com/reel/Ddv1_eGND0v/",
+      "caption": "😼 Made with Higgsfield Genjutsu #higgsfieldgenjutsu #genjutsu",
+      "width": 720,
+      "height": 1280,
+      "file": "04_Ddv1_eGND0v.mp4",
+      "downloaded": true,
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "12.095000",
+          "size": "1985785"
+        }
+      },
+      "probe_ok": true,
+      "decode_ok": true,
+      "sha256": "ef8b6c0a063fb7af4d8116abcc9a4b9b3ce991c12e199b759ad6704e62550711"
+    },
+    {
+      "rank": 5,
+      "code": "Df5E_QQtLzq",
+      "plays": 443761,
+      "likes": 48953,
+      "url": "https://www.instagram.com/reel/Df5E_QQtLzq/",
+      "caption": "I nailed it 🤘 Made with Higgsfield Genjutsu #higgsfieldgenjutsu #genjutsu #cats",
+      "width": 720,
+      "height": 1280,
+      "file": "05_Df5E_QQtLzq.mp4",
+      "downloaded": true,
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "23.042000",
+          "size": "4524382"
+        }
+      },
+      "probe_ok": true,
+      "decode_ok": true,
+      "sha256": "c13ed83534cbe92b21eb59b0c21e17aebffbb3faa1dacf39f3010ea0f54bec8b"
+    },
+    {
+      "rank": 6,
+      "code": "Df0kgMltYFZ",
+      "plays": 283942,
+      "likes": 13031,
+      "url": "https://www.instagram.com/reel/Df0kgMltYFZ/",
+      "caption": "the vet is about to get a surprise visit😭🚗Made with Higgsfield Genjutsu #higgsfieldgenjutsu #genjutsu #cats #bellvtrix",
+      "width": 720,
+      "height": 1280,
+      "file": "06_Df0kgMltYFZ.mp4",
+      "downloaded": true,
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "14.042000",
+          "size": "2568681"
+        }
+      },
+      "probe_ok": true,
+      "decode_ok": true,
+      "sha256": "d35b868c7bc2cf819011ed12add56db39dd1484423e2ae16264372dacc36a8e7"
+    },
+    {
+      "rank": 7,
+      "code": "Df3UBcfNYLL",
+      "plays": 264879,
+      "likes": 14721,
+      "url": "https://www.instagram.com/reel/Df3UBcfNYLL/",
+      "caption": "she said, i did🙄Made with Higgsfield Genjutsu #higgsfieldgenjutsu #genjutsu #cats",
+      "width": 720,
+      "height": 1280,
+      "file": "07_Df3UBcfNYLL.mp4",
+      "downloaded": true,
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "11.042000",
+          "size": "2109503"
+        }
+      },
+      "probe_ok": true,
+      "decode_ok": true,
+      "sha256": "a50d77ae0c1cef5c431e784d7a8dbdd6ab428b0c1dffb054c2efd790d8e7aaeb"
+    },
+    {
+      "rank": 8,
+      "code": "Df3RtvlNIsX",
+      "plays": 179333,
+      "likes": 7717,
+      "url": "https://www.instagram.com/reel/Df3RtvlNIsX/",
+      "caption": "casual photo shoot😭Made with Higgsfield Genjutsu #higgsfieldgenjutsu #genjutsu #cats #bellvtrix",
+      "width": 720,
+      "height": 1280,
+      "file": "08_Df3RtvlNIsX.mp4",
+      "downloaded": true,
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "10.168000",
+          "size": "2634892"
+        }
+      },
+      "probe_ok": true,
+      "decode_ok": true,
+      "sha256": "8d5c31e138440409041fbd0a3072615b0c2752d343d43a184e1928b1d6f876cc"
+    },
+    {
+      "rank": 9,
+      "code": "Df3Rig2Nd0G",
+      "plays": 177455,
+      "likes": 4138,
+      "url": "https://www.instagram.com/reel/Df3Rig2Nd0G/",
+      "caption": "Oopsie😼Made with Higgsfield Genjutsu #higgsfieldgenjutsu #genjutsu #cats",
+      "width": 720,
+      "height": 1280,
+      "file": "09_Df3Rig2Nd0G.mp4",
+      "downloaded": true,
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "7.173000",
+          "size": "2075668"
+        }
+      },
+      "probe_ok": true,
+      "decode_ok": true,
+      "sha256": "7475225597a52d5dcb7101f7807993d7cdd69b81998bee08248825f587f6b351"
+    },
+    {
+      "rank": 10,
+      "code": "Df3RozJNtJO",
+      "plays": 166637,
+      "likes": 6790,
+      "url": "https://www.instagram.com/reel/Df3RozJNtJO/",
+      "caption": "nothing personal😼Made with Higgsfield Genjutsu #higgsfieldgenjutsu #genjutsu #cats #bellvtrix",
+      "width": 720,
+      "height": 1280,
+      "file": "10_Df3RozJNtJO.mp4",
+      "downloaded": true,
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "7.173000",
+          "size": "1850092"
+        }
+      },
+      "probe_ok": true,
+      "decode_ok": true,
+      "sha256": "4cc5a186ed97dc577012684b805d951b586908899df1da7efb295baa069c76e4"
+    }
+  ]
+}
